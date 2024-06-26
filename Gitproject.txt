@@ -1,1 +1,2 @@
 "Making commits on git and pushing it to Github for the first time" 
+"Making some changes to see if it reflects automatically on github"
